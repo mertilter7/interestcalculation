@@ -1,4 +1,4 @@
-# devamlan
+# Faiz Hesaplama / interest calculation
 
 ## Project setup
 ```
